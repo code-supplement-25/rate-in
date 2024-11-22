@@ -1,0 +1,12 @@
+rate-in/
+├── README.md
+├── requirements.txt
+├── rate_in/
+│   ├── adaptive_dropout.py
+│   ├── baseline_dropouts.py
+│   ├── model_utils.py
+│   └── evaluation_metrics.py
+└── examples/
+    ├── tutorial_mlp_with_mi_loss.ipynb
+    ├── tutorial_cnn_with_ssim_loss.ipynb
+    └── example_adaptive_layer_with_simple_mse_loss.ipynb
